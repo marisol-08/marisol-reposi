@@ -1,2 +1,10 @@
 Hola todos desde la UAMI, feliz dia.
+<<<<<<< HEAD
 ¡¡¡¡Hola Mary que tengas un exelente dia :)!!!!
+=======
+Hola Tania...;)
+Hola Jesus...B)
+>>>>>>> ef86b33f4899f44dc5b40762cd2913923b51f98a
+
+------------------------------
+Hola Mary que estes bien  :):):)
